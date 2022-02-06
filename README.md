@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D7p9ACDbYbA/0.jpg)](https://www.youtube.com/watch?v=D7p9ACDbYbA)
+
 # Outliner Discord Bot
 January 16, 2022
 
